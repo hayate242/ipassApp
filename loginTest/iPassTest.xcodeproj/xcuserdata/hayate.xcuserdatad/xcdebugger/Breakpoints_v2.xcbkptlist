@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "gamen2CustomCell.swift"
+            timestampString = "496398642.786749"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "gamen2CustomCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iPassTest.gamen2CustomCell.__deallocating_deinit"
+                  moduleName = "iPassTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hayate/Dropbox/H28tabuken%20%E3%83%81%E3%83%BC%E3%83%A0%E3%83%95%E3%82%A9%E3%83%AB%E3%82%BF%E3%82%99/nakayama/loginTest/gamen2CustomCell.swift"
+                  timestampString = "496398642.928192"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iPassTest.gamen2CustomCell.init (style : __C.UITableViewCellStyle, reuseIdentifier : Swift.Optional&lt;Swift.String&gt;) -&gt; iPassTest.gamen2CustomCell"
+                  moduleName = "iPassTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hayate/Dropbox/H28tabuken%20%E3%83%81%E3%83%BC%E3%83%A0%E3%83%95%E3%82%A9%E3%83%AB%E3%82%BF%E3%82%99/nakayama/loginTest/gamen2CustomCell.swift"
+                  timestampString = "496398642.929757"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iPassTest.gamen2CustomCell.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;iPassTest.gamen2CustomCell&gt;"
+                  moduleName = "iPassTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hayate/Dropbox/H28tabuken%20%E3%83%81%E3%83%BC%E3%83%A0%E3%83%95%E3%82%A9%E3%83%AB%E3%82%BF%E3%82%99/nakayama/loginTest/gamen2CustomCell.swift"
+                  timestampString = "496398642.929891"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "36">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
